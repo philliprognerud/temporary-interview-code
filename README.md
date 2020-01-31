@@ -6,6 +6,6 @@ Run the following commands to start the React frontend:
 
 ```
 cd client
-npm install
-npm start  
+npm install OR yarn install
+npm start OR yarn start
  ```
